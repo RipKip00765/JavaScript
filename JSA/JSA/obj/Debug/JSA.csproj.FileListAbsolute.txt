@@ -1,0 +1,5 @@
+C:\Users\vansc\Documents\GitHub\JavaScript\JSA\JSA\obj\Debug\JSA.csproj.AssemblyReference.cache
+C:\Users\vansc\Documents\GitHub\JavaScript\JSA\JSA\obj\Debug\JSA.Form1.resources
+C:\Users\vansc\Documents\GitHub\JavaScript\JSA\JSA\obj\Debug\JSA.Properties.Resources.resources
+C:\Users\vansc\Documents\GitHub\JavaScript\JSA\JSA\obj\Debug\JSA.csproj.GenerateResource.cache
+C:\Users\vansc\Documents\GitHub\JavaScript\JSA\JSA\obj\Debug\JSA.csproj.CoreCompileInputs.cache
